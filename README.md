@@ -1,3 +1,3 @@
-# Zsh-zshrc
+# Terminal Themes
 
-My custom terminal theme made for ZSH shell
+My custom terminal themes made for ZSH shell.
